@@ -1,0 +1,11 @@
+.Custom_Button {
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  border-radius: 14px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}

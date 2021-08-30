@@ -1,0 +1,29 @@
+input {
+  padding: 6px 12px;
+  outline: none;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+}
+
+.NavBar {
+  display: flex;
+  gap: 1em;
+}
+
+.Link {
+  text-decoration: none;
+  font-size: 1.5em;
+  /* border: 1px solid rgb(48, 51, 238); */
+  padding: 4px 8px;
+  color: white;
+  background: rgb(48, 51, 238);
+  min-width: 4em;
+  text-align: center;
+  text-transform: uppercase;
+}
